@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-Hi! This is a project I am working on, that I hope to eventually transform into a full-stack application, utilizing a unique front-end, Flask backend, and SQL database. However, this is the blueprint I have set out.
+Hi! This is a project I am working on, that I hope to eventually transform into a full-stack application.
 
 I used Python's Tkinter GUI to simulate a personal finance tracker for the month, that allows users to track their expenditures across their income. Spendings are divided into several default categories, with the option for a custom category as well. In addition, the tracker can get exported to an Excel file as well, for filing purposes. The project's purpose is to promote saving by tracking expenses, and budgetting across the month.
 
